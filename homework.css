@@ -1,0 +1,274 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.q{
+    background-image: url(/image2/image\ 1.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 700px;
+    border: 4px solid #65799C ;
+}
+.q1{
+    color: white;
+    text-align: center;
+    padding-top: 15%;
+}
+.q0{
+   padding-left: 90px;
+   color: #999999;
+   font-size: 14px;
+}
+.qq1{
+  display: flex;
+    width: 520px;
+    height: 50px;
+    background-color: white;
+    color: black;
+    align-items: center;
+    margin-left: 33%;
+    margin-top: 50px;
+}
+.qqq1{
+    display: flex;
+    width: 100px;
+    height: 20px;
+    background-color: #5474FD;
+    padding: 13px;
+    margin-left: 123px;
+    text-align: center;
+    color: white;
+}
+.q2
+{
+    padding-left: 13px;
+}
+.qq2{
+    padding-left: 20px;
+}   
+.qqq2{
+    color: white;
+    margin-left: 47%;
+    margin-top: 10%;
+}
+.q3{
+    padding-left: 35px;
+}
+.qq3{
+    font-family: sans-serif;
+    font-size: 48px;
+    letter-spacing: 4px;
+}
+.qqq3{
+    font-family: sans-serif;
+    letter-spacing: 6px;
+    font-size: 22px;
+}
+.w1{
+    width: 100%;
+    height: 80px;
+    background-color: #5474FD;
+}
+.ww1{
+    display: flex;
+    align-items: center;
+    padding-top: 25px;
+}
+.www1{
+padding-left: 18%;
+color: white;
+font-family: sans-serif;
+letter-spacing: 2px;
+font-size: 24px;
+}
+.w2{
+    padding-left: 20%;
+    padding-right: 40px;
+    color: white;
+    font-size: 14px;
+}
+.ww2{
+    padding-right: 40px;
+    color: white;
+    font-size: 14px;
+}
+.e1{
+    display: flex;
+    background-image: url(/image2/Rectangle\ 41444.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 700px;
+}
+.ee1{
+    width: 400px;
+    height: 400px;
+    margin-left: 18%;
+    margin-top: 15%;
+}
+.eee1{
+    color: white;
+}
+.e2{
+padding-top: 30px;
+color: white;
+}
+.ee2{
+color: white;
+}
+.eee2{
+    margin-top: 40px;
+    color: white;
+    width: 130px;
+    height: 20px;
+    background-color:#5474FD ;
+    text-align: center;
+    padding: 10px;  
+}
+.e3{
+    width: 700px;
+    height: 600px;
+}
+.ee3{
+    margin-top: 14%;
+    margin-left: 120px;
+}
+.eee3{
+margin-left: 33%;
+}
+.r1{
+    display: flex;
+    width: 100%;
+    height: 250px;
+    background-color: #333333;
+}
+.rr1{
+    width: 170px;
+    height: 120px;
+    margin-left: 17%;
+   text-align: center;
+   padding-top: 80px;
+}
+.rrr1{
+    padding-top: 20px;
+    padding-left: 10px;
+}
+.r2{
+    width: 500px;
+}
+.t1{
+    display: flex;
+    background-image: url(/image2/Rectangle\ 414\ 45.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 600px;
+}
+.tt1{
+        width: 500px;
+        height: 300px;
+        background-color: #232323;
+        margin-top: 14%;
+        margin-left: 20%;
+}
+.ttt1{
+    padding-top: 30px;
+    padding-left: 31px;
+    color: white;
+}
+.t2{
+    padding-top: 15px;
+    padding-left: 30px;
+    color: white;
+}
+.tt2{
+    padding-left: 30px;
+    padding-top: 10px;
+    color: white;
+}
+.tt3{
+    padding-left: 29px;
+    padding-top: 7px;
+    color: white;
+}
+.ttt3{
+    width: 150px;
+    height: 20px;
+    text-align: center;
+    background-color: #496BFE;
+    margin-top: 35px;
+    margin-left: 30px;
+    padding: 15px;
+    color: white;
+}
+.y1{
+    display: flex;
+    background-image: url(/image2/Rectangle\ 41445.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 600px;
+}
+.yy1{
+    width: 500px;
+    height: 300px;
+    background-color: #232323;
+    margin-top: 14%;
+    margin-left: 53%;
+}
+.u1{
+    background-image: url(/image2/Rectangle\ 4142\ 1.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 800px;
+}
+.uu1{
+    display: flex;
+}.uuu1{
+margin-left: 12%;
+}
+.u2{
+    display: flex;
+    width: 600px;
+    height: 150px;
+    margin-left: 34%;
+    margin-top: 10%;
+    font-size: 36px;
+    color: white;
+}
+.uuu2{
+    width: 640px;
+    height: 283px;
+    background-color: #333333;
+    padding-left: 60px;
+}
+.u3{
+    padding-top: 40px;
+    color: white;
+    font-family: sans-serif;
+}
+.i1{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    height: 200px;
+    background-color: #232323;
+}
+.ii1{
+    width: 400px;
+    height: 100px;
+    margin-top: 90px;
+    text-align: center;
+    color: white;
+}
+.iii1{
+    padding-top: 10px;
+}
+.i2{
+    padding-top: 10px;
+}
+.ii2{
+padding-left: 10px;
+}
